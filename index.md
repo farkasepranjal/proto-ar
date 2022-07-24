@@ -1,37 +1,108 @@
-## Welcome to GitHub Pages
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORTO</title>
+            <link rel="icon" type="image/x-icon" href="https://cdn.webshopapp.com/shops/273775/files/313431229/image.jpg">
+            
+    <style>
+        body{
+            background-color: gray;
 
-You can use the [editor on GitHub](https://github.com/farkasepranjal/proto-ar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+            background-image: url(https://cdn.webshopapp.com/shops/273775/files/313431229/image.jpg);
+            
+            
+            background-size: contain;
+            
+        }
+        p{
+            color: black;
+            font-size: 80px;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        }
+        p:hover{
+            color:black;
 
-### Markdown
+        }
+        a{
+            font-size: 40px;
+            text-decoration: none;
+            margin: 40px;
+            color: brown;
+            background-color:floralwhite;
+            
+        }
+        a:hover{
+            background-color: gold;
+            padding: 10px  15px;
+            color: firebrick;
+        }
+        h1{
+            text-align: left;
+            font-size: 60px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color: black;
+        }
+        h4{
+            text-align: left;
+            font-size: 30px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color: black;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        }
+        h5{
+            text-align: left;
+            font-size: 14px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color: black;
 
-```markdown
-Syntax highlighted code block
+        }
 
-# Header 1
-## Header 2
-### Header 3
+    </style>
 
-- Bulleted
-- List
+</head>
+<body> 
+    <div class="container">
+    <p> <b>PORTO</b></p>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+    <a href="">SEARCH</a> 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+   <a href=""> HOME</a> 
+   <a href=""> ABOUT</a> 
+   <a href=""> PROJECT</a> 
+   <a href=""> SERVICES  </a> 
+   <a href="">BLOG</a> 
+   <a href="">CONTACT </a>
+   <br>
+   <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/farkasepranjal/proto-ar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br>
+<br>
 
-### Support or Contact
+   <h1>Arch Design Studio</h1>
+<h4>A Very Personal Approach To Every Client</h4>
+ <h5>Elegant Solution To Complex Problem</h5>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <a href="">Get Started</a>
+ <br>
+ <br>
+ <br>
+ </div>
+
+ <br>
+ <hr>
+ <hr><hr>
+
+ 
+
+
+
+
+
+    
+</body>
+</html>
